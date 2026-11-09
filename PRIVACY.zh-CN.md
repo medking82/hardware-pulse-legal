@@ -25,4 +25,4 @@ Hardware Pulse 在你的电脑上读取硬件传感器，并在本机显示。�
 
 ## 联系方式
 
-如有问题：https://github.com/medking82/hardware-pulse-legal/issues
+如有问题：support@hankee.com

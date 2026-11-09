@@ -25,4 +25,4 @@ Hardware Pulse reads hardware sensors on your PC and shows them locally. It has 
 
 ## Contact
 
-Questions: https://github.com/medking82/hardware-pulse-legal/issues
+Questions: support@hankee.com
